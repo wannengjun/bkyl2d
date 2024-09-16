@@ -24,13 +24,13 @@
 
 #waifu {
 	bottom: -1000px;
-	left: -5px;
+	right: 5px;
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
-	z-index: 9;
+	z-index: 2;
 }
 
 #waifu:hover {
